@@ -1,0 +1,22 @@
+.show {
+  display: block !important;
+}
+
+.hide {
+  display: none !important;
+}
+
+.btn {
+  width: 100%;
+  border-radius: 0.8rem;
+  border: none;
+  font-weight: 500;
+  font-size: 1.8rem;
+  line-height: 2.3rem;
+  letter-spacing: 1px;
+  padding-inline: 0 !important;
+  height: 5.3rem !important;
+  color: white;
+  background-color: $color-violet-very-dark;
+  cursor: pointer;
+}
